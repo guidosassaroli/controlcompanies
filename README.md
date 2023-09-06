@@ -9,9 +9,33 @@ A list of control companies, with a focus on autonomous driving.
 * [Guido Sassaroli](https://github.com/guidosassaroli)
 
 ### Software and Cloud
-
-Name | Headquarter | Short Description| Tags
------------- | ----------- | ------------------ | ------- 
-[Aptive](https://www.aptiv.com/) | Dublin, Ireland | Automotive technology supplier | Automotive - Autonomous driving
-[AutoX](https://www.autox.ai/en/index.html) | China and USA | It is a company building hardware and software integrated technology for autonomous vehicles. | Automotive - Autonomous driving
-[Cariad](https://cariad.technology/) | Wolfsburg, Germany | Automotive software brand within the Volkswagen Group | Automotive - Autonomous driving - Volkswagen
+| Name | Headquarter | Short Description | Tags |
+| ----- | ----------- | ----------------- | ---- |
+| [AutoX](https://www.autox.ai/en/index.html) | China and USA | It is a company building hardware and software integrated technology for autonomous vehicles. | Automotive - Autonomous driving |
+| [Intrinsic](https://intrinsic.ai) | Munich, Germany | Google industrial robots | Industrial robotics - Robotics - Google |
+| [Thermosphr](https://www.thermosphr.com/career) | Berlin, Germany | Plug and play software for energy efficient real estate | MPC - Control - Energy |
+| [Cariad](https://cariad.technology/) | Wolfsburg, Germany | Automotive software brand within the Volkswagen Group | Automotive - Autonomous driving - Volkswagen |
+| [Roboatnik](robotnik.eu) | Valencia, Spain | Autonomous mobile robots. The headquarters is in Spain! | Automotive - Spain - Robotics |
+| [Cruise](https://getcruise.com/) | San Francisco, USA | Self-driving car company. Contact: Simone Gelmini (Tanelli's assistant for Fondamenti di Automatica) works here.  | Automotive - Autonomous driving |
+| [Fenride](https://www.fernride.com/ ) | Munich, Germany  | Spinoff of TUM Institute of Automotive Technology. Remote control of logistic vehicle | Automotive - Autonomous driving - Logistic vehicle - Trucks |
+| [Aptive](www.aptiv.com/) | Dublin, Ireland | Automotive technology supplier | Automotive - Autonomous driving |
+| [Optiver](https://optiver.com/) | Amsterdam, Netherlands | Trading firm, highest paid internship of the world | Trading |
+| [Waymo](waymo.com/) | Moutain View, USA and Dublin, Ireland | Google autonomous driving company | Automotive - Autonomous driving - Google |
+| [Motional](https://motional.com/) | Boston, USA | Autonomous vehicle company | Automotive - Autonomous driving - Autonomous taxi |
+| [Embarktrucks](https://embarktrucks.com/) | San Francisco, USA | Autonomous trucks  | Automotive - Autonomous driving - Trucks |
+| [Rheinmetall Defence](https://www.rheinmetall-defence.com) | Zurich, Switzerland | Defence | Defence |
+| [Starship Technologies](https://www.starship.xyz/) | Tallin, Estonia | Autonomous delivery vehicles  | Automotive - Driverless - Delivery |
+| [Nvidia Drive](https://developer.nvidia.com/drive) | Zurich, Switzerland | Nvidia robotics research labs, mostly PhDs | Automotive - Autonomous driving - PhDs |
+| [Lilium](https://lilium.com/) | Weßling (near Munich), Germany  | Electric jet and aerotaxi | UVA - Aircraft - Aerotaxi |
+| [UNICARagil](https://www.unicaragil.de/de/) | Aachen, Germany | Disruptive Modular Architecture for Agile Automated Vehicle Concepts | Automotive - Autonomous driving |
+| [Driveblocks](https://www.driveblocks.ai/ ) | Munich, Germany | Spinoff of TUM Institute of Automotive Technology. They design software modules to drive heavy duty vehicles in container terminals, mining, agriculture, and hub-to-hub logistics. | Automotive - Autonomous driving |
+| [Zoox](www.zoox.com) | Foster City, USA | It is a subsidiary of Amazon developing autonomous vehicles   | Automotive - Autonomous driving - Amazon |
+| []() |  |  | Automotive - Autonomous driving |
+| [Loxo](https://www.loxo.ch/en/) | Bern, Swiss | Fully automated goods transport system for last-mile-delivery | Autonomous driving - Delivery - Robotics |
+| [Mobileye](https://www.mobileye.com/) | Tel Aviv, Israel | Intel autonomour car spinoff | Automotive - Autonomous driving - Intel |
+| [Einride](www.einride.tech) | Stockholm, Sweden | Autonomous and remote controlled trucks | Automotive - Autonomous driving - Trucks |
+| [Wayve](https://wayve.ai/) | London, UK | Deep learning for self driving. Unicorn startup. | Automotive - Autonomous driving - Unicorn - Deep Learning |
+| [Roboat](https://roboat.org/) | Amsterdan, Netherlands  | Autonomous boat | Automotive - Autonomous boat - Driverless |
+| [Easysmile](https://easymile.com/) | Toulouse, France | Autonomous driving solutons both for people and goods | Automotive - Autonomous driving |
+| [Leitner](https://www.leitner.com/) | Vipiteno, Italy | Cable cars, trams | Control - Cable cars - Trams |
+| [Dufour Aerospace](https://www.dufour.aero/) | Zurich, Switzerland | Unmanned vertical landing planes | Aircraft - UVA |
