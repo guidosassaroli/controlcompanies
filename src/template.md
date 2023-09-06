@@ -17,11 +17,11 @@ TODO: website
 
 ### Software and Cloud
 
-Name | Career Page | Company Type | Remote Policy | Hiring Policy | Stack
------------- | -- | ------- | ------- |---------------| -------
+Name | Headquarter | Short Description| Tags
+------------ | ----------- | ------------------ | ------- 
 
 {{- range .Companies.cloud_software}}
-[{{.Name}}]({{.URL}}) | [Career Page]({{.CareerPageURL}}) | {{.Type}} | {{.RemotePolicy}} | {{.GetHiringPoliciesString}} | {{.GetTagsString}}
+[{{.name}}]({{.url}}) | {{headquarter}} | {{.short_description}} | {{.tags}}
 {{- end}}
 
 

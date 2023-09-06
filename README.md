@@ -4,10 +4,6 @@
 
 A list of control companies, with a focus on autonomous driving.
 
-## Web View
-
-TODO: website
-
 ### Built and maintained by
 * [Giulio Vaccari](https://github.com/giuliovv)
 * [Guido Sassaroli](https://github.com/guidosassaroli)
@@ -17,3 +13,5 @@ TODO: website
 Name | Headquarter | Short Description| Tags
 ------------ | ----------- | ------------------ | ------- 
 [Aptive](https://www.aptiv.com/) | Dublin, Ireland | Automotive technology supplier | Automotive - Autonomous driving
+[AutoX](https://www.autox.ai/en/index.html) | China and USA | It is a company building hardware and software integrated technology for autonomous vehicles. | Automotive - Autonomous driving
+[Cariad](https://cariad.technology/) | Wolfsburg, Germany | Automotive software brand within the Volkswagen Group | Automotive - Autonomous driving - Volkswagen
