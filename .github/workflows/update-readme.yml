@@ -32,9 +32,8 @@ jobs:
     # Commit changes
     - name: Commit and push if it changed
       run: |
-        git diff
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
-        git add -A
-        git diff --exit-code || git commit -m "Automatically update README"
-        git push origin HEAD:master  # Push changes to the master branch
+        git add .
+        git commit -m "Automatically update README"
+        git push origin HEAD:main
