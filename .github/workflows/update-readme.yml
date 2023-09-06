@@ -6,6 +6,7 @@ on:
       - 'data/*.json' # Trigger the action when JSON files in 'your-folder' are changed
   schedule:
     - cron: '0 0 * * *' # Or you can run it every day at midnight
+  workflow_dispatch:
 
 jobs:
   update-readme:
