@@ -11,7 +11,7 @@ A list of control companies, with a focus on autonomous driving.
 ### Software and Cloud
 | Name | Headquarter | Short Description | Tags |
 | ----- | ----------- | ----------------- | ---- |
-| [Aptive](www.aptiv.com/) | Dublin, Ireland | Automotive technology supplier | Automotive - Autonomous driving |
+| [Aptive](https://www.aptiv.com/) | Dublin, Ireland | Automotive technology supplier | Automotive - Autonomous driving |
 | [AutoX](https://www.autox.ai/en/index.html) | China and USA | It is a company building hardware and software integrated technology for autonomous vehicles. | Automotive - Autonomous driving |
 | [Cariad](https://cariad.technology/) | Wolfsburg, Germany | Automotive software brand within the Volkswagen Group | Automotive - Autonomous driving - Volkswagen |
 | [Climeworks](https://climeworks.com/) | Zurich, Switzerland | High-quality carbon removal for your climate strategy via Climeworks' direct air capture and storage (DAC+S) technology. | Direct Air Capture - Environment |
