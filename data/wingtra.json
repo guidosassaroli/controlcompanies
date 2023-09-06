@@ -1,0 +1,12 @@
+{
+  "name": "Wingtra",
+  "url": "https://wingtra.com/",
+  "headquarter": "Zurich, Switzerland",
+
+  "short_description": "Computer vision on drones for automatic mapping",
+  "tags": [
+    "Drones", 
+    "Computer Vision",
+    "Mapping"
+  ]
+}
