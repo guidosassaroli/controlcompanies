@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Check out repository
       uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -32,4 +34,4 @@ jobs:
         git config --global user.name "GitHub Action"
         git add -A
         git diff --exit-code || git commit -m "Automatically update README"
-        git push
+        git push origin HEAD:master  # Push changes to the master branch
