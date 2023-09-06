@@ -1,0 +1,12 @@
+{
+  "name": "Loxo",
+  "url": "https://www.loxo.ch/en/",
+  "headquarter": "Bern, Swiss",
+
+  "short_description": "Fully automated goods transport system for last-mile-delivery",
+  "tags": [ 
+    "Autonomous driving", 
+    "Delivery",
+    "Robotics"
+  ]
+}
