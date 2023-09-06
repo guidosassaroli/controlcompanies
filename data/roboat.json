@@ -3,10 +3,12 @@
   "url": "https://roboat.org/",
   "headquarter": "Amsterdan, Netherlands ",
 
+
   "short_description": "Autonomous boat",
   "tags": [
     "Automotive", 
     "Autonomous boat", 
     "Driverless"
-  ]
+  ],
+  "topic": "Autonomous boat"
 }

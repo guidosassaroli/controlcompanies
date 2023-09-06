@@ -3,10 +3,12 @@
   "url": "https://www.starship.xyz/",
   "headquarter": "Tallin, Estonia",
 
+
   "short_description": "Autonomous delivery vehicles ",
   "tags": [
     "Automotive", 
     "Driverless",
     "Delivery"
-  ]
+  ],
+  "topic": "Mobile robotics"
 }

@@ -3,9 +3,11 @@
   "url": "https://easymile.com/",
   "headquarter": "Toulouse, France",
 
+
   "short_description": "Autonomous driving solutons both for people and goods",
   "tags": [
     "Automotive", 
     "Autonomous driving"
-  ]
+  ],
+  "topic": "Autonomous driving"
 }

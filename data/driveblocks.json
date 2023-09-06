@@ -3,9 +3,11 @@
   "url": "https://www.driveblocks.ai/ ",
   "headquarter": "Munich, Germany",
 
+
   "short_description": "Spinoff of TUM Institute of Automotive Technology. They design software modules to drive heavy duty vehicles in container terminals, mining, agriculture, and hub-to-hub logistics.",
   "tags": [
     "Automotive", 
     "Autonomous driving"
-  ]
+  ],
+  "topic": "Autonomous driving"
 }

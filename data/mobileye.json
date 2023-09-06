@@ -3,10 +3,12 @@
   "url": "https://www.mobileye.com/",
   "headquarter": "Tel Aviv, Israel",
 
+
   "short_description": "Intel autonomour car spinoff",
   "tags": [
     "Automotive", 
     "Autonomous driving", 
     "Intel"
-  ]
+  ],
+  "topic": "Autonomous driving"
 }

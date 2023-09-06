@@ -3,10 +3,12 @@
   "url": "https://lilium.com/",
   "headquarter": "Weßling (near Munich), Germany ",
 
+
   "short_description": "Electric jet and aerotaxi",
   "tags": [
     "UVA", 
     "Aircraft",
     "Aerotaxi"
-  ]
+  ],
+  "topic": "Aircrafts"
 }

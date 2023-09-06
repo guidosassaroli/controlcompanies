@@ -3,11 +3,13 @@
   "url": "https://www.fernride.com/ ",
   "headquarter": "Munich, Germany ",
 
+
   "short_description": "Spinoff of TUM Institute of Automotive Technology. Remote control of logistic vehicle",
   "tags": [
     "Automotive", 
     "Autonomous driving", 
     "Logistic vehicle",
     "Trucks"
-  ]
+  ],
+  "topic": "Remote driving"
 }

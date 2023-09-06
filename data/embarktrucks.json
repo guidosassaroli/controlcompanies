@@ -3,10 +3,12 @@
   "url": "https://embarktrucks.com/",
   "headquarter": "San Francisco, USA",
 
+
   "short_description": "Autonomous trucks ",
   "tags": [
     "Automotive", 
     "Autonomous driving", 
     "Trucks"
-  ]
+  ],
+  "topic": "Autonomous driving"
 }

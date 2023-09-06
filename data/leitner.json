@@ -3,10 +3,12 @@
   "url": "https://www.leitner.com/",
   "headquarter": "Vipiteno, Italy",
 
+
   "short_description": "Cable cars, trams",
   "tags": [
     "Control", 
     "Cable cars", 
     "Trams"
-  ]
+  ],
+  "topic": "Cable cars"
 }

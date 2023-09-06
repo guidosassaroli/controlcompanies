@@ -3,10 +3,12 @@
   "url": "https://intrinsic.ai",
   "headquarter": "Munich, Germany",
 
+
   "short_description": "Google industrial robots",
   "tags": [
     "Industrial robotics", 
     "Robotics", 
     "Google"
-  ]
+  ],
+  "topic": "Industrial robotics"
 }
