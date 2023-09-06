@@ -1,0 +1,12 @@
+{
+  "name": "Waymo",
+  "url": "waymo.com/",
+  "headquarter": "Moutain View, USA and Dublin, Ireland",
+
+  "short_description": "Google autonomous driving company",
+  "tags": [
+    "Automotive", 
+    "Autonomous driving", 
+    "Google"
+  ]
+}
