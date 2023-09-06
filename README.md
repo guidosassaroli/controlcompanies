@@ -30,7 +30,6 @@ A list of control companies, with a focus on autonomous driving.
 | [UNICARagil](https://www.unicaragil.de/de/) | Aachen, Germany | Disruptive Modular Architecture for Agile Automated Vehicle Concepts | Automotive - Autonomous driving |
 | [Driveblocks](https://www.driveblocks.ai/ ) | Munich, Germany | Spinoff of TUM Institute of Automotive Technology. They design software modules to drive heavy duty vehicles in container terminals, mining, agriculture, and hub-to-hub logistics. | Automotive - Autonomous driving |
 | [Zoox](www.zoox.com) | Foster City, USA | It is a subsidiary of Amazon developing autonomous vehicles   | Automotive - Autonomous driving - Amazon |
-| []() |  |  | Automotive - Autonomous driving |
 | [Loxo](https://www.loxo.ch/en/) | Bern, Swiss | Fully automated goods transport system for last-mile-delivery | Autonomous driving - Delivery - Robotics |
 | [Mobileye](https://www.mobileye.com/) | Tel Aviv, Israel | Intel autonomour car spinoff | Automotive - Autonomous driving - Intel |
 | [Einride](www.einride.tech) | Stockholm, Sweden | Autonomous and remote controlled trucks | Automotive - Autonomous driving - Trucks |

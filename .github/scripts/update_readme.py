@@ -14,6 +14,8 @@ def create_table_from_json(json_data):
     table_content = ""
     for data in json_data.values():
         name = data.get("name", "N/A")
+        if name == "":
+            continue
         url = data.get("url", "N/A")
         headquarter = data.get("headquarter", "N/A")
         short_description = data.get("short_description", "N/A")
