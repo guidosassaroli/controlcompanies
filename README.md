@@ -38,4 +38,5 @@ A list of control companies, with a focus on autonomous driving.
 | [UNICARagil](https://www.unicaragil.de/de/) | Aachen, Germany | Disruptive Modular Architecture for Agile Automated Vehicle Concepts | Automotive - Autonomous driving |
 | [Waymo](waymo.com/) | Moutain View, USA and Dublin, Ireland | Google autonomous driving company | Automotive - Autonomous driving - Google |
 | [Wayve](https://wayve.ai/) | London, UK | Deep learning for self driving. Unicorn startup. | Automotive - Autonomous driving - Unicorn - Deep Learning |
+| [Wingtra](https://wingtra.com/) | Zurich, Switzerland | Computer vision on drones for automatic mapping | Drones - Computer Vision - Mapping |
 | [Zoox](www.zoox.com) | Foster City, USA | It is a subsidiary of Amazon developing autonomous vehicles   | Automotive - Autonomous driving - Amazon |
