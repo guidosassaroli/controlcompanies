@@ -1,0 +1,362 @@
+{
+    "_data_structure.json": {
+        "name": "",
+        "url": "",
+        "headquarter": "",
+        "short_description": "",
+        "tags": [
+            "Automotive",
+            "Autonomous driving"
+        ],
+        "topic": ""
+    },
+    "aptive.json": {
+        "name": "Aptive",
+        "url": "https://www.aptiv.com/",
+        "headquarter": "Dublin, Ireland",
+        "short_description": "Automotive technology supplier",
+        "tags": [
+            "Automotive",
+            "Autonomous driving"
+        ],
+        "topic": "Autonomous driving"
+    },
+    "autox.json": {
+        "name": "AutoX",
+        "url": "https://www.autox.ai/en/index.html",
+        "headquarter": "China and USA",
+        "short_description": "It is a company building hardware and software integrated technology for autonomous vehicles.",
+        "tags": [
+            "Automotive",
+            "Autonomous driving"
+        ],
+        "topic": "Autonomous driving"
+    },
+    "cariad.json": {
+        "name": "Cariad",
+        "url": "https://cariad.technology/",
+        "headquarter": "Wolfsburg, Germany",
+        "short_description": "Automotive software brand within the Volkswagen Group",
+        "tags": [
+            "Automotive",
+            "Autonomous driving",
+            "Volkswagen"
+        ],
+        "topic": "Autonomous driving"
+    },
+    "climeworks.json": {
+        "name": "Climeworks",
+        "url": "https://climeworks.com/",
+        "headquarter": "Zurich, Switzerland",
+        "short_description": "High-quality carbon removal for your climate strategy via Climeworks' direct air capture and storage (DAC+S) technology.",
+        "tags": [
+            "Direct Air Capture",
+            "Environment"
+        ],
+        "topic": "Environment"
+    },
+    "cruise.json": {
+        "name": "Cruise",
+        "url": "https://getcruise.com/",
+        "headquarter": "San Francisco, USA",
+        "short_description": "Self-driving car company. Contact: Simone Gelmini (Tanelli's assistant for Fondamenti di Automatica) works here. ",
+        "tags": [
+            "Automotive",
+            "Autonomous driving"
+        ],
+        "topic": "Autonomous driving"
+    },
+    "drb.json": {
+        "name": "DRB",
+        "url": "https://www.drb.aero/",
+        "headquarter": "Milan, Italy",
+        "short_description": "DRB provides autonomous drone inspection services. It is a small startup, spinoof of Politecnico di Milano.",
+        "tags": [
+            "Robotics",
+            "Autonomous drones"
+        ],
+        "topic": "Autonomous drones"
+    },
+    "driveblocks.json": {
+        "name": "Driveblocks",
+        "url": "https://www.driveblocks.ai/ ",
+        "headquarter": "Munich, Germany",
+        "short_description": "Spinoff of TUM Institute of Automotive Technology. They design software modules to drive heavy duty vehicles in container terminals, mining, agriculture, and hub-to-hub logistics.",
+        "tags": [
+            "Automotive",
+            "Autonomous driving"
+        ],
+        "topic": "Autonomous driving"
+    },
+    "dufour.json": {
+        "name": "Dufour Aerospace",
+        "url": "https://www.dufour.aero/",
+        "headquarter": "Zurich, Switzerland",
+        "short_description": "Unmanned vertical landing planes",
+        "tags": [
+            "Aircraft",
+            "UVA"
+        ],
+        "topic": "Autonomous aircrafts"
+    },
+    "easysmile.json": {
+        "name": "Easysmile",
+        "url": "https://easymile.com/",
+        "headquarter": "Toulouse, France",
+        "short_description": "Autonomous driving solutons both for people and goods",
+        "tags": [
+            "Automotive",
+            "Autonomous driving"
+        ],
+        "topic": "Autonomous driving"
+    },
+    "einride.json": {
+        "name": "Einride",
+        "url": "www.einride.tech",
+        "headquarter": "Stockholm, Sweden",
+        "short_description": "Autonomous and remote controlled trucks",
+        "tags": [
+            "Automotive",
+            "Autonomous driving",
+            "Trucks"
+        ],
+        "topic": "Autonomous driving"
+    },
+    "embarktrucks.json": {
+        "name": "Embarktrucks",
+        "url": "https://embarktrucks.com/",
+        "headquarter": "San Francisco, USA",
+        "short_description": "Autonomous trucks ",
+        "tags": [
+            "Automotive",
+            "Autonomous driving",
+            "Trucks"
+        ],
+        "topic": "Autonomous driving"
+    },
+    "fenride.json": {
+        "name": "Fenride",
+        "url": "https://www.fernride.com/ ",
+        "headquarter": "Munich, Germany ",
+        "short_description": "Spinoff of TUM Institute of Automotive Technology. Remote control of logistic vehicle",
+        "tags": [
+            "Automotive",
+            "Autonomous driving",
+            "Logistic vehicle",
+            "Trucks"
+        ],
+        "topic": "Remote driving"
+    },
+    "intrinsic.json": {
+        "name": "Intrinsic",
+        "url": "https://intrinsic.ai",
+        "headquarter": "Munich, Germany",
+        "short_description": "Google industrial robots",
+        "tags": [
+            "Industrial robotics",
+            "Robotics",
+            "Google"
+        ],
+        "topic": "Industrial robotics"
+    },
+    "leitner.json": {
+        "name": "Leitner",
+        "url": "https://www.leitner.com/",
+        "headquarter": "Vipiteno, Italy",
+        "short_description": "Cable cars, trams",
+        "tags": [
+            "Control",
+            "Cable cars",
+            "Trams"
+        ],
+        "topic": "Cable cars"
+    },
+    "lilium.json": {
+        "name": "Lilium",
+        "url": "https://lilium.com/",
+        "headquarter": "We\u00dfling (near Munich), Germany ",
+        "short_description": "Electric jet and aerotaxi",
+        "tags": [
+            "UVA",
+            "Aircraft",
+            "Aerotaxi"
+        ],
+        "topic": "Aircrafts"
+    },
+    "loxo.json": {
+        "name": "Loxo",
+        "url": "https://www.loxo.ch/en/",
+        "headquarter": "Bern, Switzerland",
+        "short_description": "Fully automated goods transport system for last-mile-delivery",
+        "tags": [
+            "Autonomous driving",
+            "Delivery",
+            "Robotics"
+        ],
+        "topic": "Mobile robotics"
+    },
+    "mobileye.json": {
+        "name": "Mobileye",
+        "url": "https://www.mobileye.com/",
+        "headquarter": "Tel Aviv, Israel",
+        "short_description": "Intel autonomour car spinoff",
+        "tags": [
+            "Automotive",
+            "Autonomous driving",
+            "Intel"
+        ],
+        "topic": "Autonomous driving"
+    },
+    "motional.json": {
+        "name": "Motional",
+        "url": "https://motional.com/",
+        "headquarter": "Boston, USA",
+        "short_description": "Autonomous vehicle company",
+        "tags": [
+            "Automotive",
+            "Autonomous driving",
+            "Autonomous taxi"
+        ],
+        "topic": "Autonomous driving"
+    },
+    "nvidia.json": {
+        "name": "Nvidia Drive",
+        "url": "https://developer.nvidia.com/drive",
+        "headquarter": "Zurich, Switzerland",
+        "short_description": "Nvidia robotics research labs, mostly PhDs",
+        "tags": [
+            "Automotive",
+            "Autonomous driving",
+            "PhDs"
+        ],
+        "topic": "Autonomous driving"
+    },
+    "optiver.json": {
+        "name": "Optiver",
+        "url": "https://optiver.com/",
+        "headquarter": "Amsterdam, Netherlands",
+        "short_description": "Trading firm, highest paid internship of the world",
+        "tags": [
+            "Trading"
+        ],
+        "topic": "Finance"
+    },
+    "rheinmetall.json": {
+        "name": "Rheinmetall Defence",
+        "url": "https://www.rheinmetall-defence.com",
+        "headquarter": "Zurich, Switzerland",
+        "short_description": "Defence",
+        "tags": [
+            "Defence"
+        ],
+        "topic": "Defence"
+    },
+    "roboat.json": {
+        "name": "Roboat",
+        "url": "https://roboat.org/",
+        "headquarter": "Amsterdan, Netherlands ",
+        "short_description": "Autonomous boat",
+        "tags": [
+            "Automotive",
+            "Autonomous boat",
+            "Driverless"
+        ],
+        "topic": "Autonomous boat"
+    },
+    "roboatnik.json": {
+        "name": "Roboatnik",
+        "url": "robotnik.eu",
+        "headquarter": "Valencia, Spain",
+        "short_description": "Autonomous mobile robots. The headquarters is in Spain!",
+        "tags": [
+            "Automotive",
+            "Spain",
+            "Robotics"
+        ],
+        "topic": "Mobile robotics"
+    },
+    "starship.json": {
+        "name": "Starship Technologies",
+        "url": "https://www.starship.xyz/",
+        "headquarter": "Tallin, Estonia",
+        "short_description": "Autonomous delivery vehicles ",
+        "tags": [
+            "Automotive",
+            "Driverless",
+            "Delivery"
+        ],
+        "topic": "Mobile robotics"
+    },
+    "thermosphr.json": {
+        "name": "Thermosphr",
+        "url": "https://www.thermosphr.com/career",
+        "headquarter": "Berlin, Germany",
+        "short_description": "Plug and play software for energy efficient real estate",
+        "tags": [
+            "MPC",
+            "Control",
+            "Energy"
+        ],
+        "topic": "Energy systems"
+    },
+    "unicaragil.json": {
+        "name": "UNICARagil",
+        "url": "https://www.unicaragil.de/de/",
+        "headquarter": "Aachen, Germany",
+        "short_description": "Disruptive Modular Architecture for Agile Automated Vehicle Concepts",
+        "tags": [
+            "Automotive",
+            "Autonomous driving"
+        ],
+        "topic": "Autonomous driving"
+    },
+    "waymo.json": {
+        "name": "Waymo",
+        "url": "waymo.com/",
+        "headquarter": "Moutain View, USA and Dublin, Ireland",
+        "short_description": "Google autonomous driving company",
+        "tags": [
+            "Automotive",
+            "Autonomous driving",
+            "Google"
+        ],
+        "topic": "Autonomous driving"
+    },
+    "wayve.json": {
+        "name": "Wayve",
+        "url": "https://wayve.ai/",
+        "headquarter": "London, UK",
+        "short_description": "Deep learning for self driving. Unicorn startup.",
+        "tags": [
+            "Automotive",
+            "Autonomous driving",
+            "Unicorn",
+            "Deep Learning"
+        ],
+        "topic": "Autonomous driving"
+    },
+    "wingtra.json": {
+        "name": "Wingtra",
+        "url": "https://wingtra.com/",
+        "headquarter": "Zurich, Switzerland",
+        "short_description": "Computer vision on drones for automatic mapping",
+        "tags": [
+            "Drones",
+            "Computer Vision",
+            "Mapping"
+        ],
+        "topic": "Drones"
+    },
+    "zoox.json": {
+        "name": "Zoox",
+        "url": "www.zoox.com",
+        "headquarter": "Foster City, USA",
+        "short_description": "It is a subsidiary of Amazon developing autonomous vehicles  ",
+        "tags": [
+            "Automotive",
+            "Autonomous driving",
+            "Amazon"
+        ],
+        "topic": "Autonomous driving"
+    }
+}
