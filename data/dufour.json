@@ -3,9 +3,11 @@
   "url": "https://www.dufour.aero/",
   "headquarter": "Zurich, Switzerland",
 
+
   "short_description": "Unmanned vertical landing planes",
   "tags": [
     "Aircraft", 
     "UVA"
-  ]
+  ],
+  "topic": "Autonomous aircrafts"
 }

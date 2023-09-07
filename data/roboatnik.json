@@ -3,10 +3,12 @@
   "url": "robotnik.eu",
   "headquarter": "Valencia, Spain",
 
+
   "short_description": "Autonomous mobile robots. The headquarters is in Spain!",
   "tags": [
     "Automotive", 
     "Spain",
     "Robotics"
-  ]
+  ],
+  "topic": "Mobile robotics"
 }

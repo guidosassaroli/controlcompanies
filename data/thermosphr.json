@@ -3,10 +3,12 @@
   "url": "https://www.thermosphr.com/career",
   "headquarter": "Berlin, Germany",
 
+
   "short_description": "Plug and play software for energy efficient real estate",
   "tags": [
     "MPC", 
     "Control",
     "Energy"
-  ]
+  ],
+  "topic": "Energy systems"
 }

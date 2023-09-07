@@ -3,10 +3,12 @@
   "url": "https://developer.nvidia.com/drive",
   "headquarter": "Zurich, Switzerland",
 
+
   "short_description": "Nvidia robotics research labs, mostly PhDs",
   "tags": [
     "Automotive", 
     "Autonomous driving", 
     "PhDs"
-  ]
+  ],
+  "topic": "Autonomous driving"
 }

@@ -1,0 +1,12 @@
+{
+  "name": "DRB",
+  "url": "https://www.drb.aero/",
+  "headquarter": "Milan, Italy",
+
+  "short_description": "DRB provides autonomous drone inspection services. It is a small startup, spinoof of Politecnico di Milano.",
+  "tags": [
+    "Robotics", 
+    "Autonomous drones"
+  ],
+  "topic": "Autonomous drones"
+}

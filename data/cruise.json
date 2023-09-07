@@ -3,9 +3,11 @@
   "url": "https://getcruise.com/",
   "headquarter": "San Francisco, USA",
 
+
   "short_description": "Self-driving car company. Contact: Simone Gelmini (Tanelli's assistant for Fondamenti di Automatica) works here. ",
   "tags": [
     "Automotive", 
     "Autonomous driving"
-  ]
+  ],
+  "topic": "Autonomous driving"
 }

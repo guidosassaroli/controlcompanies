@@ -3,10 +3,12 @@
   "url": "https://www.loxo.ch/en/",
   "headquarter": "Bern, Switzerland",
 
+
   "short_description": "Fully automated goods transport system for last-mile-delivery",
   "tags": [ 
     "Autonomous driving", 
     "Delivery",
     "Robotics"
-  ]
+  ],
+  "topic": "Mobile robotics"
 }
