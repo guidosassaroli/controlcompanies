@@ -1,15 +1,4 @@
 {
-    "_data_structure.json": {
-        "name": "",
-        "url": "",
-        "headquarter": "",
-        "short_description": "",
-        "tags": [
-            "Automotive",
-            "Autonomous driving"
-        ],
-        "topic": ""
-    },
     "aptive.json": {
         "name": "Aptive",
         "url": "https://www.aptiv.com/",

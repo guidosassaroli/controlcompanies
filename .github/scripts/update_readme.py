@@ -4,7 +4,7 @@ import json
 def read_json_files(folder_path):
     json_data = {}
     for filename in sorted(os.listdir(folder_path)):
-        if filename.endswith(".json"):
+        if filename.endswith(".json") and filename != "_data_structure.json" and filename != "all_data.json":
             with open(os.path.join(folder_path, filename), 'r') as f:
                 json_data[filename] = json.load(f)
     return json_data
