@@ -48,7 +48,14 @@ A list of control companies, with a focus on autonomous driving.
     with open("README.md", "w") as f:
         f.write(updated_readme_content)
 
+def generate_all_files(json_data, output_filename="data/all_data.json"):
+    """Writes combined JSON data to a single file."""
+    with open(output_filename, "w") as outfile:
+        json.dump(json_data, outfile, indent=4)
+
+
 if __name__ == "__main__":
     folder_path = "data"
     json_data = read_json_files(folder_path)
     update_readme(json_data)
+    generate_all_files(json_data)
