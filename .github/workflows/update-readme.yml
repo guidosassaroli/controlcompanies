@@ -32,7 +32,7 @@ jobs:
     # Commit changes
     - name: Commit and push if it changed
       run: |
-        git diff
+        # git diff
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git add -A
