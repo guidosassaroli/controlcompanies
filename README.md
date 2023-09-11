@@ -15,13 +15,14 @@ A list of control companies, with a focus on autonomous driving.
 | [AutoX](https://www.autox.ai/en/index.html) | China and USA | It is a company building hardware and software integrated technology for autonomous vehicles. | Automotive - Autonomous driving |
 | [Cariad](https://cariad.technology/) | Wolfsburg, Germany | Automotive software brand within the Volkswagen Group | Automotive - Autonomous driving - Volkswagen |
 | [Climeworks](https://climeworks.com/) | Zurich, Switzerland | High-quality carbon removal for your climate strategy via Climeworks' direct air capture and storage (DAC+S) technology. | Direct Air Capture - Environment |
-| [Cruise](https://getcruise.com/) | San Francisco, USA | Self-driving car company. Contact: Simone Gelmini (Tanelli's assistant for Fondamenti di Automatica) works here.  | Automotive - Autonomous driving |
+| [Cruise](https://getcruise.com/) | San Francisco, USA | Self-driving car company.  | Automotive - Autonomous driving |
 | [DRB](https://www.drb.aero/) | Milan, Italy | DRB provides autonomous drone inspection services. It is a small startup, spinoof of Politecnico di Milano. | Robotics - Autonomous drones |
 | [Driveblocks](https://www.driveblocks.ai/ ) | Munich, Germany | Spinoff of TUM Institute of Automotive Technology. They design software modules to drive heavy duty vehicles in container terminals, mining, agriculture, and hub-to-hub logistics. | Automotive - Autonomous driving |
 | [Dufour Aerospace](https://www.dufour.aero/) | Zurich, Switzerland | Unmanned vertical landing planes | Aircraft - UVA |
 | [Easysmile](https://easymile.com/) | Toulouse, France | Autonomous driving solutons both for people and goods | Automotive - Autonomous driving |
 | [Einride](www.einride.tech) | Stockholm, Sweden | Autonomous and remote controlled trucks | Automotive - Autonomous driving - Trucks |
 | [Embarktrucks](https://embarktrucks.com/) | San Francisco, USA | Autonomous trucks  | Automotive - Autonomous driving - Trucks |
+| [Embotech](https://www.embotech.com/) | Zurich, Switzerland | Provider of AI software for autonomous systems. Our automation solutions bring significant improvements in safety, productivity, and energy efficiency to logistics yards, ports, mines and smart factories. Applications include automated driving for passenger cars and commercial vehicles, energy management solutions as well as industrial robotics automation. | Automotive - Autonomous driving - AI |
 | [Fenride](https://www.fernride.com/ ) | Munich, Germany  | Spinoff of TUM Institute of Automotive Technology. Remote control of logistic vehicle | Automotive - Autonomous driving - Logistic vehicle - Trucks |
 | [Intrinsic](https://intrinsic.ai) | Munich, Germany | Google industrial robots | Industrial robotics - Robotics - Google |
 | [Leitner](https://www.leitner.com/) | Vipiteno, Italy | Cable cars, trams | Control - Cable cars - Trams |
