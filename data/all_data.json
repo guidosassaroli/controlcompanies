@@ -3,7 +3,7 @@
         "name": "Aptive",
         "url": "https://www.aptiv.com/",
         "headquarter": "Dublin, Ireland",
-        "short_description": "Automotive technology supplier",
+        "short_description": "Automotive technology supplier.",
         "tags": [
             "Automotive",
             "Autonomous driving"
@@ -54,6 +54,18 @@
             "Autonomous driving"
         ],
         "topic": "Autonomous driving"
+    },
+    "dlr.json": {
+        "name": "DLR German Aerospace Center",
+        "url": "https://www.dlr.de/en",
+        "headquarter": "Germany",
+        "short_description": "It is the Federal Republic of Germany's research centre for aeronautics and space. It conducts research and development activities in the fields of aeronautics, space, energy, transport, security and digitalisation.",
+        "tags": [
+            "Aerospace",
+            "Energy",
+            "Robotics"
+        ],
+        "topic": "Aerospace"
     },
     "drb.json": {
         "name": "DRB",
@@ -115,7 +127,7 @@
         "name": "Embarktrucks",
         "url": "https://embarktrucks.com/",
         "headquarter": "San Francisco, USA",
-        "short_description": "Autonomous trucks ",
+        "short_description": "Autonomous trucks. It makes automotive-grade self-driving software that can transform any fleet into an autonomous one. ",
         "tags": [
             "Automotive",
             "Autonomous driving",
@@ -152,7 +164,7 @@
         "name": "Intrinsic",
         "url": "https://intrinsic.ai",
         "headquarter": "Munich, Germany",
-        "short_description": "Google industrial robots",
+        "short_description": "Alphabet robots. obotics software and AI company at Alphabet. Its mission is to make industrial robotics accessible and usable for millions more businesses, entrepreneurs, and developers.",
         "tags": [
             "Industrial robotics",
             "Robotics",
@@ -164,7 +176,7 @@
         "name": "Leitner",
         "url": "https://www.leitner.com/",
         "headquarter": "Vipiteno, Italy",
-        "short_description": "Cable cars, trams",
+        "short_description": "Ropeways, snow groomers, urban transportation systems, and wind energy.",
         "tags": [
             "Control",
             "Cable cars",
@@ -246,7 +258,7 @@
         "name": "Rheinmetall Defence",
         "url": "https://www.rheinmetall-defence.com",
         "headquarter": "Zurich, Switzerland",
-        "short_description": "Defence",
+        "short_description": "Defence company with an Electronic Systems division",
         "tags": [
             "Defence"
         ],
@@ -256,7 +268,7 @@
         "name": "Roboat",
         "url": "https://roboat.org/",
         "headquarter": "Amsterdan, Netherlands ",
-        "short_description": "Autonomous boat",
+        "short_description": "Autonomous boat. It creates boats that can perceive, navigate, and perform tasks on their own. ",
         "tags": [
             "Automotive",
             "Autonomous boat",
