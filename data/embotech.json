@@ -1,0 +1,13 @@
+{
+  "name": "Embotech",
+  "url": "https://www.embotech.com/",
+  "headquarter": "Zurich, Switzerland",
+
+  "short_description": "Provider of AI software for autonomous systems. Our automation solutions bring significant improvements in safety, productivity, and energy efficiency to logistics yards, ports, mines and smart factories. Applications include automated driving for passenger cars and commercial vehicles, energy management solutions as well as industrial robotics automation.",
+  "tags": [
+    "Automotive", 
+    "Autonomous driving",
+    "AI"
+  ],
+  "topic": "Autonomous driving"
+}
