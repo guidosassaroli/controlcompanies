@@ -20,7 +20,7 @@ A list of control companies, with a focus on autonomous driving.
 | [Driveblocks](https://www.driveblocks.ai/ ) | Munich, Germany | Spinoff of TUM Institute of Automotive Technology. They design software modules to drive heavy duty vehicles in container terminals, mining, agriculture, and hub-to-hub logistics. | Automotive - Autonomous driving |
 | [Dufour Aerospace](https://www.dufour.aero/) | Zurich, Switzerland | Unmanned vertical landing planes | Aircraft - UVA |
 | [Easysmile](https://easymile.com/) | Toulouse, France | Autonomous driving solutons both for people and goods | Automotive - Autonomous driving |
-| [Einride](www.einride.tech) | Stockholm, Sweden | Autonomous and remote controlled trucks | Automotive - Autonomous driving - Trucks |
+| [Einride](https://www.einride.tech/) | Stockholm, Sweden | Autonomous and remote controlled trucks | Automotive - Autonomous driving - Trucks |
 | [Embarktrucks](https://embarktrucks.com/) | San Francisco, USA | Autonomous trucks  | Automotive - Autonomous driving - Trucks |
 | [Embotech](https://www.embotech.com/) | Zurich, Switzerland | Provider of AI software for autonomous systems. Our automation solutions bring significant improvements in safety, productivity, and energy efficiency to logistics yards, ports, mines and smart factories. Applications include automated driving for passenger cars and commercial vehicles, energy management solutions as well as industrial robotics automation. | Automotive - Autonomous driving - AI |
 | [Fenride](https://www.fernride.com/ ) | Munich, Germany  | Spinoff of TUM Institute of Automotive Technology. Remote control of logistic vehicle | Automotive - Autonomous driving - Logistic vehicle - Trucks |
@@ -34,11 +34,11 @@ A list of control companies, with a focus on autonomous driving.
 | [Optiver](https://optiver.com/) | Amsterdam, Netherlands | Trading firm, highest paid internship of the world | Trading |
 | [Rheinmetall Defence](https://www.rheinmetall-defence.com) | Zurich, Switzerland | Defence | Defence |
 | [Roboat](https://roboat.org/) | Amsterdan, Netherlands  | Autonomous boat | Automotive - Autonomous boat - Driverless |
-| [Roboatnik](robotnik.eu) | Valencia, Spain | Autonomous mobile robots. The headquarters is in Spain! | Automotive - Spain - Robotics |
+| [Roboatnik](https://robotnik.eu/) | Valencia, Spain | Autonomous mobile robots. The headquarters is in Spain! | Automotive - Spain - Robotics |
 | [Starship Technologies](https://www.starship.xyz/) | Tallin, Estonia | Autonomous delivery vehicles  | Automotive - Driverless - Delivery |
 | [Thermosphr](https://www.thermosphr.com/career) | Berlin, Germany | Plug and play software for energy efficient real estate | MPC - Control - Energy |
 | [UNICARagil](https://www.unicaragil.de/de/) | Aachen, Germany | Disruptive Modular Architecture for Agile Automated Vehicle Concepts | Automotive - Autonomous driving |
-| [Waymo](waymo.com/) | Moutain View, USA and Dublin, Ireland | Google autonomous driving company | Automotive - Autonomous driving - Google |
+| [Waymo](https://waymo.com/) | Moutain View, USA and Dublin, Ireland | Google autonomous driving company | Automotive - Autonomous driving - Google |
 | [Wayve](https://wayve.ai/) | London, UK | Deep learning for self driving. Unicorn startup. | Automotive - Autonomous driving - Unicorn - Deep Learning |
 | [Wingtra](https://wingtra.com/) | Zurich, Switzerland | Computer vision on drones for automatic mapping | Drones - Computer Vision - Mapping |
 | [Zoox](https://zoox.com/) | Foster City, USA | It is a subsidiary of Amazon developing autonomous vehicles   | Automotive - Autonomous driving - Amazon |

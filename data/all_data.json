@@ -101,7 +101,7 @@
     },
     "einride.json": {
         "name": "Einride",
-        "url": "www.einride.tech",
+        "url": "https://www.einride.tech/",
         "headquarter": "Stockholm, Sweden",
         "short_description": "Autonomous and remote controlled trucks",
         "tags": [
@@ -266,7 +266,7 @@
     },
     "roboatnik.json": {
         "name": "Roboatnik",
-        "url": "robotnik.eu",
+        "url": "https://robotnik.eu/",
         "headquarter": "Valencia, Spain",
         "short_description": "Autonomous mobile robots. The headquarters is in Spain!",
         "tags": [
@@ -313,7 +313,7 @@
     },
     "waymo.json": {
         "name": "Waymo",
-        "url": "waymo.com/",
+        "url": "https://waymo.com/",
         "headquarter": "Moutain View, USA and Dublin, Ireland",
         "short_description": "Google autonomous driving company",
         "tags": [
