@@ -1,0 +1,13 @@
+{
+  "name": "DLR German Aerospace Center",
+  "url": "https://www.dlr.de/en",
+  "headquarter": "Germany",
+
+  "short_description": "It is the Federal Republic of Germany's research centre for aeronautics and space. It conducts research and development activities in the fields of aeronautics, space, energy, transport, security and digitalisation.",
+  "tags": [
+    "Aerospace", 
+    "Energy", 
+    "Robotics"
+  ],
+  "topic": "Aerospace"
+}
