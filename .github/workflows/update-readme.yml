@@ -33,9 +33,17 @@ jobs:
     - name: Commit and push if it changed
       run: |
         # git diff
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
-        git add -A
-        # git diff --exit-code || 
-        git commit -m "Automatically update README"
-        git push origin HEAD:main
+        # git config --global user.email "action@github.com"
+        # git config --global user.name "GitHub Action"
+        # git add -A
+        # # git diff --exit-code || 
+        # git commit -m "Automatically update README"
+        # git push origin HEAD:main
+        if [[ -n $(git status --porcelain) ]]; then
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add -A
+          git commit -m "Automatically update README"
+          git push origin HEAD:main
+        fi
+
