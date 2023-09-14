@@ -37,7 +37,7 @@ A list of control companies, with a focus on autonomous driving.
 * [Giulio Vaccari](https://github.com/giuliovv)
 * [Guido Sassaroli](https://github.com/guidosassaroli)
 
-### Software and Cloud"""
+### Control companies"""
 
     # Update the README.md content based on the json_data
     new_content = create_table_from_json(json_data)
