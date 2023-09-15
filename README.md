@@ -22,7 +22,7 @@ A list of control companies, with a focus on autonomous driving.
 | [DLR German Aerospace Center](https://www.dlr.de/en) | Germany | It is the Federal Republic of Germany's research centre for aeronautics and space. It conducts research and development activities in the fields of aeronautics, space, energy, transport, security and digitalisation. | Aerospace - Energy - Robotics |
 | [DRB](https://www.drb.aero/) | Milan, Italy | DRB provides autonomous drone inspection services. It is a small startup, spinoof of Politecnico di Milano. | Robotics - Autonomous drones |
 | [Driveblocks](https://www.driveblocks.ai/ ) | Munich, Germany | Spinoff of TUM Institute of Automotive Technology. They design software modules to drive heavy duty vehicles in container terminals, mining, agriculture, and hub-to-hub logistics. | Automotive - Autonomous driving |
-| [Dufour Aerospace](https://www.dufour.aero/) | Zurich, Switzerland | Unmanned vertical landing planes | Aircraft - UVA |
+| [Dufour Aerospace](https://www.dufour.aero/) | Zurich, Switzerland | Unmanned vertical landing planes | Aircraft - UAV |
 | [Easysmile](https://easymile.com/) | Toulouse, France | Autonomous driving solutons both for people and goods | Automotive - Autonomous driving |
 | [Einride](https://www.einride.tech/) | Stockholm, Sweden | Autonomous and remote controlled trucks | Automotive - Autonomous driving - Trucks |
 | [Embarktrucks](https://embarktrucks.com/) | San Francisco, USA | Autonomous trucks. It makes automotive-grade self-driving software that can transform any fleet into an autonomous one.  | Automotive - Autonomous driving - Trucks |
@@ -30,7 +30,7 @@ A list of control companies, with a focus on autonomous driving.
 | [Fenride](https://www.fernride.com/ ) | Munich, Germany  | Spinoff of TUM Institute of Automotive Technology. Remote control of logistic vehicle | Automotive - Autonomous driving - Logistic vehicle - Trucks |
 | [Intrinsic](https://intrinsic.ai) | Munich, Germany | Alphabet robots. obotics software and AI company at Alphabet. Its mission is to make industrial robotics accessible and usable for millions more businesses, entrepreneurs, and developers. | Industrial robotics - Robotics - Google |
 | [Leitner](https://www.leitner.com/) | Vipiteno, Italy | Ropeways, snow groomers, urban transportation systems, and wind energy. | Control - Cable cars - Trams |
-| [Lilium](https://lilium.com/) | Weßling (near Munich), Germany  | Electric jet and aerotaxi | UVA - Aircraft - Aerotaxi |
+| [Lilium](https://lilium.com/) | Weßling (near Munich), Germany  | Electric jet and aerotaxi | UAV - Aircraft - Aerotaxi |
 | [Loxo](https://www.loxo.ch/en/) | Bern, Switzerland | Fully automated goods transport system for last-mile-delivery | Autonomous driving - Delivery - Robotics |
 | [Medtronic](https://www.medtronic.com/) | Minneapolis, USA, (offices all over the world) | While it primarily operates in the United States, it operates in more than 150 countries and employs over 90,000 people. It develops and manufactures healthcare technologies and therapies. | Biomedical devices |
 | [Mobileye](https://www.mobileye.com/) | Tel Aviv, Israel | Intel autonomour car spinoff | Automotive - Autonomous driving - Intel |
