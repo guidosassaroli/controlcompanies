@@ -21,6 +21,17 @@
         ],
         "topic": "Autonomous driving"
     },
+    "brembo.json": {
+        "name": "Brembo",
+        "url": "https://www.brembo.com/",
+        "headquarter": "Bergamo, Italy",
+        "short_description": "It is an Italian manufacturer of automotive braking systems, especially for high-performance cars and motorcycles",
+        "tags": [
+            "Automotive",
+            "Control"
+        ],
+        "topic": ""
+    },
     "cariad.json": {
         "name": "Cariad",
         "url": "https://cariad.technology/",
@@ -32,6 +43,17 @@
             "Volkswagen"
         ],
         "topic": "Autonomous driving"
+    },
+    "clearguidemedical.json": {
+        "name": "Clear Guide Medical",
+        "url": "https://clearguidemedical.com/",
+        "headquarter": "Baltimore, USA",
+        "short_description": "Leader in next-gen medical imaging fusion and navigation technology. It is a spinout of the Johns Hopkins Medical Institutions and The Johns Hopkins University.",
+        "tags": [
+            "Biomedical technology",
+            "Computer Vision"
+        ],
+        "topic": ""
     },
     "climeworks.json": {
         "name": "Climeworks",
@@ -54,6 +76,18 @@
             "Autonomous driving"
         ],
         "topic": "Autonomous driving"
+    },
+    "deepmind.json": {
+        "name": "Google Deep Mind",
+        "url": "https://www.deepmind.com/",
+        "headquarter": "London, UK",
+        "short_description": "Team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity.Open positions in robotics, automation and AI.",
+        "tags": [
+            "Robotics",
+            "AI",
+            "Machine Learning"
+        ],
+        "topic": ""
     },
     "dlr.json": {
         "name": "DLR German Aerospace Center",
@@ -208,6 +242,16 @@
         ],
         "topic": "Mobile robotics"
     },
+    "medtronic.json": {
+        "name": "Medtronic",
+        "url": "https://www.medtronic.com/",
+        "headquarter": "Minneapolis, USA, (offices all over the world)",
+        "short_description": "While it primarily operates in the United States, it operates in more than 150 countries and employs over 90,000 people. It develops and manufactures healthcare technologies and therapies.",
+        "tags": [
+            "Biomedical devices"
+        ],
+        "topic": ""
+    },
     "mobileye.json": {
         "name": "Mobileye",
         "url": "https://www.mobileye.com/",
@@ -254,6 +298,17 @@
         ],
         "topic": "Finance"
     },
+    "polestar.json": {
+        "name": "Polestar",
+        "url": "https://www.polestar.com/",
+        "headquarter": "Gothenburg, Sweden",
+        "short_description": "Automotive company controlled by Volvo. It produces electric vehicles.",
+        "tags": [
+            "Automotive",
+            "Energy"
+        ],
+        "topic": ""
+    },
     "rheinmetall.json": {
         "name": "Rheinmetall Defence",
         "url": "https://www.rheinmetall-defence.com",
@@ -287,6 +342,17 @@
             "Robotics"
         ],
         "topic": "Mobile robotics"
+    },
+    "rse.json": {
+        "name": "RSE Ricerca Sistema Energetico",
+        "url": "https://www.rse-web.it/",
+        "headquarter": "Milan, Italy",
+        "short_description": "It carries out research in the electro-energy sector with particular attention to national strategic projects.",
+        "tags": [
+            "Control",
+            "Energy"
+        ],
+        "topic": ""
     },
     "starship.json": {
         "name": "Starship Technologies",
@@ -322,6 +388,17 @@
             "Autonomous driving"
         ],
         "topic": "Autonomous driving"
+    },
+    "voltatruck.json": {
+        "name": "Volta Trucks",
+        "url": "https://voltatrucks.com/",
+        "headquarter": "Stockholm, Sweden",
+        "short_description": "Thet manufacture and provide services for electric trucks. The company's registered offices are Stockholm and London, with operations in both countries as well as France, Spain, The Netherlands and Austria. Volta Trucks' Head Office is in Stockholm with its engineering-led from the UK, and manufacturing facility in Steyr, Austria.",
+        "tags": [
+            "Automotive",
+            "Energy"
+        ],
+        "topic": ""
     },
     "waymo.json": {
         "name": "Waymo",
