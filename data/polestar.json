@@ -1,0 +1,12 @@
+{
+  "name": "Polestar",
+  "url": "https://www.polestar.com/",
+  "headquarter": "Gothenburg, Sweden",
+
+  "short_description": "Automotive company controlled by Volvo. It produces electric vehicles.",
+  "tags": [
+    "Automotive", 
+    "Energy"
+  ],
+  "topic": ""
+}
