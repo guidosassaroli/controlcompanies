@@ -130,7 +130,7 @@
         "short_description": "Unmanned vertical landing planes",
         "tags": [
             "Aircraft",
-            "UVA"
+            "UAV"
         ],
         "topic": "Autonomous aircrafts"
     },
@@ -224,7 +224,7 @@
         "headquarter": "We\u00dfling (near Munich), Germany ",
         "short_description": "Electric jet and aerotaxi",
         "tags": [
-            "UVA",
+            "UAV",
             "Aircraft",
             "Aerotaxi"
         ],
