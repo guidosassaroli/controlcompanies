@@ -1,6 +1,6 @@
 {
-    "aptive.json": {
-        "name": "Aptive",
+    "aptiv.json": {
+        "name": "Aptiv",
         "url": "https://www.aptiv.com/",
         "headquarter": "Dublin, Ireland",
         "short_description": "Automotive technology supplier.",

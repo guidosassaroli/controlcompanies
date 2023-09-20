@@ -11,7 +11,7 @@ A list of high-tech control companies, with a focus on autonomous driving.
 ### Control companies
 | Name | Headquarter | Short Description | Tags |
 | ----- | ----------- | ----------------- | ---- |
-| [Aptive](https://www.aptiv.com/) | Dublin, Ireland | Automotive technology supplier. | Automotive - Autonomous driving |
+| [Aptiv](https://www.aptiv.com/) | Dublin, Ireland | Automotive technology supplier. | Automotive - Autonomous driving |
 | [AutoX](https://www.autox.ai/en/index.html) | China and USA | It is a company building hardware and software integrated technology for autonomous vehicles. | Automotive - Autonomous driving |
 | [Brembo](https://www.brembo.com/) | Bergamo, Italy | It is an Italian manufacturer of automotive braking systems, especially for high-performance cars and motorcycles | Automotive - Control |
 | [Cariad](https://cariad.technology/) | Wolfsburg, Germany | Automotive software brand within the Volkswagen Group | Automotive - Autonomous driving - Volkswagen |
